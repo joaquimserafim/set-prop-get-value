@@ -23,7 +23,7 @@ let someObject = {}
 
 setProp(someObject, 'hello', 'world')
 // should return `world`
-// and now `someObject` should have the new porp `hello: 'world'`
+// and now `someObject` should have the new prop `hello: 'world'`
 
 ```
 
