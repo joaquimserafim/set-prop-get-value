@@ -1,4 +1,3 @@
-
 /*
 eslint
 no-multi-spaces: ["error", {exceptions: {"VariableDeclarator": true}}]
