@@ -45,7 +45,7 @@ test('set-prop-get-value', (assert) => {
   assert.deepEqual(
     setPropGetValue(obj, 'fooBar'),
     undefined,
-    'should create a prop but with return value when missing the value'
+    'should create a prop but with undefined value when missing the value'
   )
 
   assert.deepEqual(

@@ -1,6 +1,6 @@
 {
   "name": "set-prop-get-value",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "set a new property in a js object and return the value of the given property",
   "main": "index.js",
     "files": [
